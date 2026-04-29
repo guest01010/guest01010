@@ -74,23 +74,23 @@ I have experience working with backend, frontend, databases, DevOps tools, mobil
 
 
 
-# Rihla
+### Rihla
 Intelligent Moroccan travel and events platform for trip planning, reservations, event discovery, and AI-powered recommendations.
 
-#DevProfile
+### DevProfile
 Laravel platform for managing developer portfolios, projects, skills, and generating professional CVs in PDF format.
 
-# VetCare360
+### VetCare360
 JavaFX veterinary clinic management system for managing owners, pets, veterinarians, visits, and medical records.
 
-# Digital Bank
+### Digital Bank
 Digital banking application for managing clients, accounts, transactions, authentication, and financial operations.
 
-# TransGest
+### TransGest
 School transport management system built with JavaFX, MySQL, and MVP architecture for managing students, payments, employees, expenses, and transport services.
 
-# AI Agent System
+### AI Agent System
 AI-powered agent project designed to automate tasks, process user requests, and support intelligent decision-making.
 
-# Odoo ERP Audit & Security
+### Odoo ERP Audit & Security
 ERP audit and cybersecurity project focused on Odoo traceability, access control, audit logs, abnormal actions, and security recommendations.
