@@ -1,96 +1,269 @@
-# Hi, I'm Mohamed Amine Ouazzou
+# MOHAMED AMINE OUAZZOU
 
-Software Engineering and Cybersecurity student with a strong interest in digital networking, IT management, secure systems, microservices, and full-stack development.
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" alt="Mohamed Amine Ouazzou - AI & Software Engineering" />
+</p>
 
-I have experience working with backend, frontend, databases, DevOps tools, mobile development, and cybersecurity platforms. I enjoy building modern, secure, and scalable applications that solve real-world problems.
+<h3 align="center">
+  ARTIFICIAL INTELLIGENCE · SOFTWARE ENGINEERING · CYBERSECURITY
+</h3>
 
-## About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Exploring+Artificial+Intelligence;Building+Intelligent+Software+Systems;Engineering+AI-Powered+Applications;Exploring+Machine+Learning+%26+Deep+Learning;Connecting+AI%2C+Cloud+%26+Cybersecurity" />
+</p>
 
-- Software Engineering & Cybersecurity student
-- Interested in Digital Networking and IT Management
-- Passionate about cybersecurity, SOC workflows, SIEM platforms, and secure architectures
-- Experienced in full-stack web development and microservices
-- Comfortable working with databases, APIs, Docker, and modern development tools
+<p align="center">
+  <a href="https://github.com/guest01010">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Field-Artificial%20Intelligence-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Morocco-16A34A?style=flat-square" />
+</p>
 
-## Technical Skills
+---
+
+## ABOUT ME
+
+I am an **Artificial Intelligence student at Faculté des Sciences Ben M'Sik (FSBM), Casablanca**, currently pursuing a Licence d'Excellence in Artificial Intelligence.
+
+With an academic foundation in Software Engineering and practical experience in application development, I am particularly interested in understanding how intelligent systems are designed, developed, trained, and integrated into real-world applications.
+
+My interests extend across Artificial Intelligence, Machine Learning, Deep Learning, Large Language Models, intelligent agents, and data-driven systems.
+
+I also explore complementary areas such as cybersecurity, cloud computing, distributed systems, and DevOps to understand the infrastructure required to build and deploy reliable intelligent applications.
+
+**My technical direction**
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning & Neural Networks
+- Large Language Models & AI Agents
+- Data Science & Intelligent Automation
+- Software Engineering & Distributed Systems
+- Cloud Computing & Infrastructure
+- Cybersecurity & AI Security
+
+---
+
+## TECHNICAL EXPERTISE
+
+### Artificial Intelligence & Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-9333EA?style=for-the-badge" />
+</p>
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c)
-![PHP](https://img.shields.io/badge/PHP-Backend-purple?style=for-the-badge&logo=php)
-![Java](https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-Programming-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Web-blue?style=for-the-badge&logo=typescript)
-![Shell](https://img.shields.io/badge/Shell-Scripting-black?style=for-the-badge&logo=gnubash)
-![Bash](https://img.shields.io/badge/Bash-Scripting-black?style=for-the-badge&logo=gnubash)
-![Swift](https://img.shields.io/badge/Swift-iOS-orange?style=for-the-badge&logo=swift)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,php,js,ts,bash,swift&theme=dark" />
+</p>
 
-### Backend Development
+### Backend Engineering
 
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-API-black?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Microservices-green?style=for-the-badge&logo=springboot)
-![Laravel](https://img.shields.io/badge/Laravel-Backend-red?style=for-the-badge&logo=laravel)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel&theme=dark" />
+</p>
 
-### Frontend Development
+### Frontend Engineering
 
-![Angular](https://img.shields.io/badge/Angular-Frontend-red?style=for-the-badge&logo=angular)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-Frontend-blue?style=for-the-badge&logo=typescript)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts&theme=dark" />
+</p>
 
-### Databases
+### Database Engineering
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green?style=for-the-badge&logo=mongodb)
-![Cassandra](https://img.shields.io/badge/Cassandra-NoSQL-blue?style=for-the-badge&logo=apachecassandra)
-![Oracle](https://img.shields.io/badge/OracleDB-Database-red?style=for-the-badge&logo=oracle)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle&theme=dark" />
+</p>
 
-### DevOps and Tools
+Additional experience: PostgreSQL, Cassandra.
 
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Automation-black?style=for-the-badge&logo=gnubash)
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github&theme=dark" />
+</p>
 
 ### Mobile Development
 
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
-![Swift](https://img.shields.io/badge/Swift-iOS-orange?style=for-the-badge&logo=swift)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift&theme=dark" />
+</p>
 
-## Areas of Interest
+### Cybersecurity
 
-- Digital Networking
-- IT Management
-- Cybersecurity
-- Networking
-- Microservices architecture
-- Full-stack development
-- Cloud and DevOps
-- Mobile application development
-- Database design and optimization
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-1677C8?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevSecOps-Security-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Monitoring-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Application-Security-7C3AED?style=flat-square" />
+</p>
 
-## Featured Projects
+---
 
+## FEATURED PROJECTS
 
+### 01 / AI AGENT SYSTEM
+**Intelligent AI Assistant & Automation**
 
-### Rihla
-Intelligent Moroccan travel and events platform for trip planning, reservations, event discovery, and AI-powered recommendations.
+An AI-powered assistant exploring intelligent interactions, document understanding, and automated information retrieval.
 
-### DevProfile
-Laravel platform for managing developer portfolios, projects, skills, and generating professional CVs in PDF format.
+- AI-powered conversational interactions.
+- Voice-based request processing.
+- PDF document understanding.
+- Database-assisted information retrieval.
+- Intelligent task automation.
 
-### VetCare360
-JavaFX veterinary clinic management system for managing owners, pets, veterinarians, visits, and medical records.
+`PYTHON` `LLMs` `AI AGENTS` `AUTOMATION`
 
-### Digital Bank
-Digital banking application for managing clients, accounts, transactions, authentication, and financial operations.
+---
 
-### TransGest
-School transport management system built with JavaFX, MySQL, and MVP architecture for managing students, payments, employees, expenses, and transport services.
+### 02 / RIHLA
+**AI-Powered Travel & Recommendation Platform**
 
-### AI Agent System
-AI-powered agent project designed to automate tasks, process user requests, and support intelligent decision-making.
+An intelligent Moroccan travel and events platform combining personalized recommendations with travel planning and reservation management.
 
-### Odoo ERP Audit & Security
-ERP audit and cybersecurity project focused on Odoo traceability, access control, audit logs, abnormal actions, and security recommendations.
+- AI-powered recommendation engine.
+- Personalized travel suggestions.
+- Intelligent itinerary generation.
+- Event and destination discovery.
+- Microservices-based architecture.
+
+`SPRING BOOT` `PYTHON` `AI` `RECOMMENDATION SYSTEMS` `MONGODB`
+
+---
+
+### 03 / OMRANE SECUREOPS
+**Intelligent Security Operations Platform**
+
+A security monitoring and management application extending Wazuh SIEM capabilities.
+
+- Wazuh agent management.
+- Security alert monitoring.
+- Incident management.
+- Authentication and access control.
+- Security reporting and monitoring.
+
+`JAVA` `SPRING BOOT` `WAZUH` `SIEM` `DOCKER`
+
+---
+
+### 04 / DEVPROFILE
+**Developer Portfolio Management Platform**
+
+A Laravel application for managing professional developer profiles and generating structured CV documents.
+
+- Developer profile management.
+- Project and skills organization.
+- Dynamic PDF CV generation.
+- Portfolio management.
+
+`PHP` `LARAVEL` `MYSQL`
+
+---
+
+### 05 / VETCARE360
+**Veterinary Clinic Management System**
+
+A desktop application designed to organize veterinary clinic operations.
+
+- Pet and owner management.
+- Veterinarian management.
+- Appointment tracking.
+- Medical records management.
+
+`JAVA` `JAVAFX`
+
+---
+
+### 06 / DIGITAL BANK
+**Digital Banking Management System**
+
+A banking application focused on account management, transactions, authentication, and financial workflows.
+
+`JAVA` `SPRING BOOT` `MYSQL`
+
+---
+
+### 07 / TRANSGEST
+**School Transportation Management System**
+
+A desktop management application for organizing transportation operations.
+
+- Student and employee management.
+- Payment and expense tracking.
+- Transportation service management.
+- MVP architecture.
+
+`JAVA` `JAVAFX` `MYSQL`
+
+---
+
+### 08 / ODOO ERP AUDIT & SECURITY
+**Enterprise Security & Audit Monitoring**
+
+An ERP security project focused on system traceability and monitoring.
+
+- Audit log monitoring.
+- Access control analysis.
+- User activity tracking.
+- Security investigation.
+
+`ODOO` `PYTHON` `CYBERSECURITY`
+
+---
+
+## GITHUB ANALYTICS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=guest01010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=8B5CF6&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guest01010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=guest01010&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guest01010&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## CURRENT LEARNING & RESEARCH
+
+| Domain | Areas of Interest |
+|:---|:---|
+| Artificial Intelligence | Intelligent systems, AI applications |
+| Machine Learning | Predictive models, supervised learning |
+| Deep Learning | Neural networks, deep architectures |
+| Generative AI | LLMs, RAG, AI agents |
+| Data Science | Data analysis, statistical learning |
+| Software Engineering | Microservices, APIs, architecture |
+| Cloud Computing | Distributed infrastructure, deployment |
+| Cybersecurity | SIEM, application security, DevSecOps |
+
+---
+
+## CONNECT WITH ME
+
+<p align="center">
+  <a href="https://github.com/guest01010">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>ARTIFICIAL INTELLIGENCE · SOFTWARE ENGINEERING · INTELLIGENT SYSTEMS</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=120&section=footer" />
+</p>
